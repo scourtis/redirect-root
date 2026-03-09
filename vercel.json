@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://app.shopcomparz.com/$1" }
+  ]
+}
